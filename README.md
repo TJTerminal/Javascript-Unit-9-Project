@@ -46,7 +46,7 @@
 </html>
 
 
-CSS
+style.css
 
 .menu{
 	border: none;
@@ -61,7 +61,8 @@ ul li {
 }
 
 
-Javascript
+script.js
+
 
 function map() {
 	navigator.geolocation.getCurrentPosition(function(position) {
